@@ -10,7 +10,7 @@
   font-family: "cozette";
   src:
     local("cozette"),
-    url("/assets/fonts/cozette.woff2") format("woff2");
+    url("/assets/fonts/cozette.woff2") format("woff2"); /* i hope thats just the fact that build failed man*/
 }
 
 @font-face {
